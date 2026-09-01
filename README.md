@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o João 👋</h1>
 
-<!--
-**joaowernerdev/joaowernerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Desenvolvedor Full Stack & QA</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Construindo software de ponta a ponta  do código à qualidade. 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mim
+
+- 🔭 Foco em **desenvolvimento Full Stack** e **Quality Assurance**
+- 🌱 Sempre aprendendo e evoluindo em novas tecnologias
+- 💼 Confira meus projetos em destaque abaixo
+- 📫 Me encontre por aqui mesmo no GitHub!
+
+---
+
+### 🚀 Projetos em destaque
+
+- 💼 [**portfolio-joaowerner**](https://github.com/joaowernerdev/portfolio-joaowerner) — Meu portfólio pessoal
+- 🛤️ [**JornadaDev**](https://github.com/joaowernerdev/JornadaDev) — Registro da minha jornada como desenvolvedor
+
+---
+
+### 📊 Estatísticas do GitHub
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joaowernerdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+<p align="center">
+  <i>⭐ Feito com dedicação por joaowernerdev</i>
+</p>
